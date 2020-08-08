@@ -1,0 +1,2 @@
+go to https://github.com/fbi-cde/crime-data-frontend for instructions
+go to https://crime-data-explorer.fr.cloud.gov/api for documentation
